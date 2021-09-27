@@ -3,7 +3,7 @@
 ---
   
   <img alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=nkbtemmy&show_icons=false&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkbtemmy&show_icons=true&theme=radical&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkbtemmy&show_icons=true&theme=radical&hide_border=true&layout=compact&hide=python&langs_count=20" />
 
 <br/>
 <br/>
